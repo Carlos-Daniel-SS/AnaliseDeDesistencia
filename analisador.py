@@ -8,7 +8,7 @@ tabela = pd.read_csv('telecom_users.csv')
 
 # Visualizar a base de dados:
 
-'''print(tabela)'''
+print(tabela)
 
 # Entender  as informações disponíveis e reconhecer possíveis erros na base.
 
